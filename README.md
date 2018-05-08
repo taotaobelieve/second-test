@@ -1,3 +1,3 @@
-# second-test
-test
-SSIINKK
+git status 
+git add .
+git commit -m 'test'
